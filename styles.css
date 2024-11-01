@@ -37,3 +37,31 @@ footer {
     background: #333;
     color: #fff;
 }
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: #4CAF50;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.book-gallery {
+    display: flex;
+    gap: 20px;
+}
+
+.book-item {
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+}
